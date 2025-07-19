@@ -1,32 +1,32 @@
-# All Scrollable Menus
-### Oops! All Scrollables!
+# Todos os Menus Roláveis
+### Ops! Todos Roláveis!
 
-This submod replaces the standard Ren'Py menus with your choice of the following menus:
-#### The `mas_gen_scrollable_menu`:
-- The same screen used for large menus (Like the `Goodbye`, `I'm feeling`, `I want to tell you something` menus)
-- Slides Monika over to the left
-- Displays in the top right corner of the window
+Este submod substitui os menus padrão do Ren'Py pela sua escolha entre os seguintes menus:
+#### O menu `mas_gen_scrollable_menu`:
+- A mesma tela usada para menus grandes (como os menus `Goodbye`, `I'm feeling`, `I want to tell you something`)
+- Desliza a Monika para a esquerda
+- Exibe no canto superior direito da janela
 
-##### Sample:
+##### Exemplo:
 ![image](https://cdn.discordapp.com/attachments/609579661847953430/734161840271130684/screenshot0215.png)
 
-#### The `talk_choice` menu:
-- The same screen used for the main 'Talk' screen
-- Slides Monika over to the left
-- Displays on the right-middle of the window
+#### O menu `talk_choice`:
+- A mesma tela usada para a tela principal de 'Falar'
+- Desliza a Monika para a esquerda
+- Exibe na parte direita-central da janela
 
-##### Sample:
+##### Exemplo:
 ![image](https://cdn.discordapp.com/attachments/609579661847953430/734161839587459143/screenshot0214.png)
 
-#### The `unobstructed_choice` menu:
-- Custom screen which is essentially a medium between the above two menus
-- Monika doesn't need to slide over anymore
-- Displays in the right middle of the window
+#### O menu `unobstructed_choice`:
+- Tela personalizada que é basicamente um meio termo entre os dois menus acima
+- A Monika não precisa mais deslizar para o lado
+- Exibe na parte direita-central da janela
 
-##### Sample:
+##### Exemplo:
 ![image](https://cdn.discordapp.com/attachments/609579661847953430/734161834810277948/screenshot0213.png)
 
-This submod is compatible with the [Submod Updater Plugin](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin/releases/latest)! Give it an install to make updating this submod easier.
+Este submod é compatível com o [Plugin Atualizador de Submods](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin/releases/latest)! Instale para facilitar a atualização deste submod.
 
-### Please report any and all problems in the `issues` tab.
-###### Thank you
+### Por favor, reporte quaisquer problemas na aba `issues`.
+###### Obrigado
